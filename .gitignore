@@ -1,3 +1,5 @@
+_DS.Store
+.env
 # Logs
 logs
 *.log
