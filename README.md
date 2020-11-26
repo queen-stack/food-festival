@@ -52,7 +52,8 @@
 ## Usage
 💻   
   
-`npm start`
+`npm run start:dev`
+* use localhost:8080
 
 
 ## Testing
